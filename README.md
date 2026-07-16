@@ -1,5 +1,5 @@
 # 제 3회 풍력발전량 예측 AI 경진대회 - BARAM 2026
-GS E&R, 한국동서발전, 태백가덕산풍력발전이 공동 주관한 기상예보 데이터 기반 풍력발전량 예측 AI 모델 개발이 주제인 AI 경진대회입니다.
+GS E&R, 한국동서발전, 태백가덕산풍력발전이 공동 주관한 기상예보 데이터 기반 풍력발전량 예측 AI 모델 개발이 주제인 AI 경진대회입니다. [제 3회 풍력발전량 예측 AI 경진대회 - BARAM 2026](https://dacon.io/competitions/official/236727/overview/description)
 
 ---
 
